@@ -1,2 +1,2 @@
-# Aula-Genaration
-Aulas desenvolvidas no curso da generation
+# Aula-Generation
+Aulas desenvolvidas no bootcamp Generation
